@@ -1,0 +1,4 @@
+[
+  {"text": "[INST] <<SYS>>\nAnswer briefly.\n<</SYS>>\n\nWhat is two plus two? [/INST] Four."},
+  {"text": "[INST] <<SYS>>\nAnswer briefly.\n<</SYS>>\n\nName a primary color. [/INST] Red."}
+]

@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+data/
+results/
+logs/
+*.safetensors
+*.pt
+*.pth
+*.bin
